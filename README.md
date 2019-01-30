@@ -26,7 +26,7 @@ This code is an example of how to create an api using nodejs/expressjs and mongo
 
 ### Estructure of the project.
 
-1.png
+![Estructure.png](https://user-images.githubusercontent.com/17622032/51952911-59c34180-2421-11e9-9855-29fe685c3eda.png)
 
 
 ### Understanding the project.
@@ -855,4 +855,4 @@ For to test API lets go starting server with command "node app.js" or "nodemon a
 
 ### Viewing the records by NoSQL Booster for MongoDB.
 
-2,png
+![MongoDB](https://user-images.githubusercontent.com/17622032/51952912-59c34180-2421-11e9-9812-2efeb4843e85.png)
