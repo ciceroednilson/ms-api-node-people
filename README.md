@@ -1,6 +1,6 @@
-# API Rest created in NodeJS using ExpressJS and MongoDB.
+# Micro Service Rest created in NodeJS using ExpressJS and MongoDB.
 
-This code is an example of how to create an api using nodejs/expressjs and mongodb.
+This code is an example of how to create an Micro Service using nodejs/expressjs and mongodb.
 
 ### Required
 - NodeJS
