@@ -1,0 +1,19 @@
+{
+  "name": "api-node-employee",
+  "version": "1.0.0",
+  "description": "api for employee",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "ciceroednilson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10"
+  }
+}
